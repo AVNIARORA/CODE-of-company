@@ -1,0 +1,2 @@
+[11-Aug-2016 10:51:15 Asia/Kolkata] PHP Fatal error:  Call to undefined function redirect() in /home/hpcspher/public_html/hpcsphere/formu.php on line 30
+[11-Aug-2016 10:52:30 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hpcspher/public_html/hpcsphere/formu.php:29) in /home/hpcspher/public_html/hpcsphere/formu.php on line 30
